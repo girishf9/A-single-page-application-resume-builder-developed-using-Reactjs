@@ -1,6 +1,8 @@
+It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.
+
 🅻🅸🆅🅴 🅳🅴🅼🅾 :https://girishkumar01.github.io/profile1/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
